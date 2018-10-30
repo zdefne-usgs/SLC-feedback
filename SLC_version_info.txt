@@ -1,0 +1,16 @@
+Version History for An Interactive Guide to Global and Regional Sea Level Rise Scenarios for the United States (Geo-Narrative)
+
+Defne, Z., Lentz E. , Signell R., Weaver C., Sweet W. 2018, An Interactive Guide to Global and Regional Sea Level Rise Scenarios for the United States (Story Map): U.S. Geological Survey geo-narrative. 
+
+________________________________________________________
+
+Version 1 posted online February 15, 2018
+________________________________________________________
+
+Version 1.1 revised and reposted online October 31, 2018
+
+Changes in version 1.1
+
+1. Updated scenario names from MED, LOW, HIGH to Scenario, Low End, and High End, respectively. Updated the text and screenshots for examples to reflect this change. 
+2. Added the paragraph and screenshot about the Data Catalog function.
+3. Added the link for this revision history file after the credits at the end of the geo-narrative.
